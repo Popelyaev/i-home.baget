@@ -69,6 +69,8 @@ const cli2 = document.querySelector('.c-v2');
 const imgb1 = document.querySelector('.a-v1');
 const imgb2 = document.querySelector('.a-v2');
 const bagwr = document.querySelector('.baget-wr');
+imgb2.style.display = "none";
+imgb1.style.display = "block";
 
 cli1.addEventListener('click', () => {
   imgb2.style.display = "none";
