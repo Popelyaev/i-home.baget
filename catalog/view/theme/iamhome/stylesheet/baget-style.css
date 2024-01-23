@@ -69,7 +69,7 @@ body .pswp__bg {
   .baget-wr {
     margin: 0 auto;
     background-color: #ffffff;
-    border: 20px solid #000000;
+    border: 10px solid #000000;
     border-image-source: url("../../../../../image/baget.jpeg");
     border-image-slice: 100;
     height: 300px;
